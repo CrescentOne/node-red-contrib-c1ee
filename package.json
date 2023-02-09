@@ -1,0 +1,28 @@
+{
+  "name": "@crescentone/node-red-contrib-c1ee",
+  "version": "0.0.1",
+  "description": "Node-RED node, node to learn how to make nodes.",
+  "main": "xml-validate.js",
+  "node-red": {
+    "nodes": {
+      "c1ee": "c1ee.js"
+    }
+  },
+  "author": "CrescentOne, Arjan Renders",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrescentOne/node-red-contrib-c1ee.git"
+  },
+  "keywords": [
+    "easter egg",
+    "node-red"
+  ],
+  "bugs": {
+    "url": "https://github.com/CrescentOne/node-red-contrib-c1ee/bugs"
+  },
+  "homepage": "https://github.com/CrescentOne/node-red-contrib-c1ee#readme"
+}
